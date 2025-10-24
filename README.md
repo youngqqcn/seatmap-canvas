@@ -12,14 +12,14 @@ Seatmap Canvas is an advanced, open-source library for interactive seat selectio
 * Event Handling: Simplified event listeners for seat interactions, allowing dynamic responses to user actions.
 
 ## Screenshot
-[![LIVE DEMO](assets/screenshot_1.png)](https://alisaitteke.github.io/seatmap-canvas)
+[![LIVE DEMO](assets/screenshot_1.png)](https://youngqqcn.github.io/seatmap-canvas/)
 
 ## Planned
 - [x]  React & React Native Integration
 - [ ]  Vue & Nuxt Integration
 - [ ]  Angular Integration
 
-[LIVE DEMO](https://alisaitteke.github.io/seatmap-canvas/)
+[LIVE DEMO: https://youngqqcn.github.io/seatmap-canvas/](https://youngqqcn.github.io/seatmap-canvas/)
 
 
 
@@ -152,8 +152,8 @@ seatmap.addEventListener("seat_click", (seat) => {
 });
 ```
 
-#### Activated unsalable seat click 
-##### click_enable_sold_seats param add to config object 
+#### Activated unsalable seat click
+##### click_enable_sold_seats param add to config object
 ```javascript
 let config = {
     click_enable_sold_seats: true // default false
