@@ -42,3 +42,7 @@ build/*
 dist/*
 yarn.lock
 cog.toml
+
+
+examples/cjs
+examples/esm
